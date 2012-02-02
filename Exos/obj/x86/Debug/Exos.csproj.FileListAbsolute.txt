@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\obj\x86\Debug\Interop.XTAPI.dll
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\obj\x86\Debug\Interop.XTSERVICESLib.dll
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\obj\x86\Debug\Exos.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Exos.exe
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Exos.pdb
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Apache.NMS.dll
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Apache.NMS.pdb
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Apache.NMS.xml
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Interop.XTAPI.dll
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\bin\Debug\Interop.XTSERVICESLib.dll
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\obj\x86\Debug\Exos.exe
+C:\Users\admin\Documents\Stratos\Exos\Exos\Exos\obj\x86\Debug\Exos.pdb
